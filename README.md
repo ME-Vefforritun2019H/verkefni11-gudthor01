@@ -1,9 +1,9 @@
 # vfor1Verk11
 CSS imageverkefni
 
-1. Setjið upp HTML og CSS skjöl
-2.  Vinnið í HTML skjalinu
-2.1 Setjið upp title og tengingu við CSS skjalið
+1b. Setjið upp HTML og CSS skjöl
+2b.  Vinnið í HTML skjalinu
+2.b1 Setjið upp title og tengingu við CSS skjalið
 2.2 Setjið upp div tagg með id wrapper
 2.2.1 Búið til div með id header
 2.2.1.1 Búið til image tag sem vísar í myndina title, er með alternitive "Galerie Botanique", width 456 og height 122
@@ -17,16 +17,16 @@ CSS imageverkefni
 2.2.3 Búið til div tagg með class entry
 2.2.3.1 Búið til figure tagg
 2.2.3.1.1 Búið til image tagg sem vísar í myndina print-02 og með alternitive Passiflora
-2.2.3.1.2 Búið til figcaption tag með textanum Passiflora
+2.2.3.1.2b Búið til figcaption tag með textanum Passiflora
 
 2.2.4 Búið til div tagg með class entry
 2.2.4.1 Búið til figure tagg
 2.2.4.1.1 Búið til image tagg sem vísar í myndina print-03 og með alternitive Nyctocalos
-2.2.4.1.2 Búið til figcaption tag með textanum Nyctocalos
+2.2.4.1.2b Búið til figcaption tag með textanum Nyctocalos
 
 2.2.5 Búið til div tagg með class entry
 2.2.5.1 Búið til figure tagg
-2.2.5.1.1 Búið til image tagg sem vísar í myndina print-04 og með alternitive Polianthes
+2.2.5.1.1 Búið til image tagg sem vísar í myndina print-04 og með alternitive 
 2.2.5.1.2 Búið til figcaption tag með textanum Polianthes
 
 2.2.6 Búið til div tagg með class entry
